@@ -1,0 +1,171 @@
+{
+    "title": "Тест на понимание темы: концепции языка программирования",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "skills": {},
+    "passingScore": 100,
+    "assets": {
+        "$ref": "./assets"
+    },
+    "questions": [
+        {
+            "question": "Какой тип языка программирования переводит компьютерную программу в машинный язык перед её выполнением?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Система",
+                    "correct": false
+                },
+                {
+                    "answer": "Интерпретируемый",
+                    "correct": false
+                },
+                {
+                    "answer": "Транслируемый",
+                    "correct": true
+                },
+                {
+                    "answer": "Глобальная",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Какое программное обеспечение управляет аппаратным обеспечением компьютера?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Локальное",
+                    "correct": false
+                },
+                {
+                    "answer": "Глобальное",
+                    "correct": false
+                },
+                {
+                    "answer": "Система",
+                    "correct": true
+                },
+                {
+                    "answer": "Машина",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Как называется графическое представление процесса?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Алгоритм",
+                    "correct": false
+                },
+                {
+                    "answer": "Транслируемый",
+                    "correct": false
+                },
+                {
+                    "answer": "Интерпретируемый",
+                    "correct": false
+                },
+                {
+                    "answer": "Блок-схема",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Примером какого типа языка программирования является Python?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Транслируемый",
+                    "correct": false
+                },
+                {
+                    "answer": "Интерпретируемый",
+                    "correct": true
+                },
+                {
+                    "answer": "Глобальный",
+                    "correct": false
+                },
+                {
+                    "answer": "Локальный",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Как называется набор автономных пошаговых инструкций?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Интерпретируемый",
+                    "correct": false
+                },
+                {
+                    "answer": "Блок-схема",
+                    "correct": false
+                },
+                {
+                    "answer": "Транслируемый",
+                    "correct": false
+                },
+                {
+                    "answer": "Алгоритм",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Какой тип цикла выполняет процедуру, пока проверяемое условие истинно?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Система",
+                    "correct": false
+                },
+                {
+                    "answer": "Транслируемый",
+                    "correct": false
+                },
+                {
+                    "answer": "WHILE",
+                    "correct": true
+                },
+                {
+                    "answer": "FOR",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Какая переменная видна во всех частях компьютерной программы?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Глобальная",
+                    "correct": true
+                },
+                {
+                    "answer": "Локальная",
+                    "correct": false
+                },
+                {
+                    "answer": "FOR",
+                    "correct": false
+                },
+                {
+                    "answer": "WHILE",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

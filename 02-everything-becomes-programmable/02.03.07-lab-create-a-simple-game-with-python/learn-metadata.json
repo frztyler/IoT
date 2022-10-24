@@ -1,0 +1,48 @@
+{
+    "title": "Создание простой игры с помощью Python",
+    "shortName": "lab-2.3.7",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: В этой лабораторной работе Вы создадите простую игру на угадывание чисел с помощью Python. Эта игра основана на блок-схеме, созданной ранее.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": {
+        "$ref": "./README.md"
+    },
+    "assets": {
+        "$ref": "./assets"
+    },
+	"answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Как бы Вы определили игрока, который вводит число за пределами диапазона от 0 до 1024?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. Как бы Вы определили игрока, который вводит число с плавающей запятой?",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

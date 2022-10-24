@@ -1,0 +1,99 @@
+{
+    "title": "Тест на понимание темы: блок-схемы",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "skills": {},
+    "passingScore": 100,
+    "assets": {
+        "$ref": "./assets"
+    },
+    "questions": [
+        {
+            "question": "![](./assets/2.1.1.png)\n\nПосмотрите на изображение и выберите правильный ответ.\n\nКакое состояние проверяет датчик?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Дверь закрыта",
+                    "correct": false
+                },
+                {
+                    "answer": "Дверь открыта",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "![](./assets/2.1.1.png)\n\nПосмотрите на изображение и выберите правильный ответ.\n\nКак часто датчик проверяет это состояние?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "1 секунда",
+                    "correct": false
+                },
+                {
+                    "answer": "2 секунды",
+                    "correct": true
+                },
+                {
+                    "answer": "3 секунды",
+                    "correct": false
+                },
+                {
+                    "answer": "4 секунды",
+                    "correct": false
+                },
+                {
+                    "answer": "5 секунд",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "![](./assets/2.1.1.png)\n\nПосмотрите на изображение и выберите правильный ответ.\n\nБудет ли срабатывать сигнал тревоги, если дверь будет открыта в течение 5 секунд?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Да",
+                    "correct": false
+                },
+                {
+                    "answer": "Нет",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "![](./assets/2.1.1.png)\n\nПосмотрите на изображение и выберите правильный ответ.\n\nБудет ли срабатывать сигнал тревоги, если дверь будет открыта в течение 10 секунд?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Да",
+                    "correct": true
+                },
+                {
+                    "answer": "Нет",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "![](./assets/2.1.1.png)\n\nПосмотрите на изображение и выберите правильный ответ.\n\nБудет ли срабатывать сигнал тревоги, если дверь будет открыта в течение 5 секунд, затем закрыта на 5 секунд, и снова открыта на 5 секунд?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Да",
+                    "correct": false
+                },
+                {
+                    "answer": "Нет",
+                    "correct": true
+                }
+            ]
+        }
+    ]
+}

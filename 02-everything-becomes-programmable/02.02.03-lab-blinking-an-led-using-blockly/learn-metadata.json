@@ -1,0 +1,42 @@
+{
+    "title": "Packet Tracer — мигание светодиодом с помощью Blockly",
+    "shortName": "lab-2.2.3",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: В этом задании Вы откроете Packet Tracer и проверите программу Blockly на предмет мигания светодиода, а затем будете управлять RGB светодиодом с помощью Blockly",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": { "$ref": "./README.md" },
+    "assets": { "$ref": "./assets" },
+    "tags": { "$ref": "../../material-tags.json" },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Мигает ли светодиод? Дайте объяснение.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. Запишите изменения в программе.",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Тест на понимание темы: элементы блок-схемы",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "skills": {},
+    "passingScore": 100,
+    "assets": {
+        "$ref": "./assets"
+    },
+    "questions": [
+        {
+            "question": "Посмотрите на элементы блок-схемы и дайте им правильное название.",
+            "answerType": "matching",
+            "comment": "Ответ неправильный",
+            "correctComment": "Ответ правильный",
+            "options": [
+                {
+                    "option": "Терминатор или начало/конец",
+                    "match": "1"
+                },
+                {
+                    "option": "Процесс",
+                    "match": "2"
+                },
+                {
+                    "option": "Подготовка",
+                    "match": "3"
+                },
+                {
+                    "option": "Предопределенный процесс",
+                    "match": "4"
+                },
+                {
+                    "option": "Межстраничные соединения",
+                    "match": "5"
+                },
+                {
+                    "option": "Дисплей или вывод",
+                    "match": "6"
+                },
+                {
+                    "option": "Решение",
+                    "match": "7"
+                },
+                {
+                    "option": "Данные",
+                    "match": "8"
+                },
+                {
+                    "option": "Соединитель",
+                    "match": "9"
+                }
+            ],
+            "answers": [
+                {
+                "answer": "![](./assets/2.1.9-1.png)",
+                "match": "1$",
+                "correct": true
+                },
+                {
+                "answer": "![](./assets/2.1.9-2.png)",
+                "match": "5$",
+                "correct": true
+                },
+                {
+                "answer": "![](./assets/2.1.9-3.png)",
+                "match": "2$",
+                "correct": true
+                },
+                {
+                "answer": "![](./assets/2.1.9-4.png)",
+                "match": "6$",
+                "correct": true
+                },
+                {
+                "answer": "![](./assets/2.1.9-5.png)",
+                "match": "3$",
+                "correct": true
+                },
+                {
+                "answer": "![](./assets/2.1.9-6.png)",
+                "match": "7$",
+                "correct": true
+                },
+                {
+                "answer": "![](./assets/2.1.9-7.png)",
+                "match": "4$",
+                "correct": true
+                },
+                {
+                "answer": "![](./assets/2.1.9-8.png)",
+                "match": "8$",
+                "correct": true
+                },
+                {
+                "answer": "![](./assets/2.1.9-9.png)",
+                "match": "9$",
+                "correct": true
+                }
+            ]
+        }
+    ]
+}

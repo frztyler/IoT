@@ -1,0 +1,169 @@
+{
+    "title": "Тест на понимание темы: термины программирования",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "skills": {},
+    "passingScore": 100,
+    "assets": {
+        "$ref": "./assets"
+    },
+    "questions": [
+        {
+            "question": "![](./assets/2.1.7-1.png)\n\nПосмотрите на блок-схему. Выберите правильный термин для каждого из пронумерованных блоков.",
+            "answerType": "matching",
+            "comment": "Ответ неправильный. Обратите внимание на оператор с паролем. Если выражение ложно (False), компьютер переходит к следующему блоку. Если истинно (True), то условия меняются.",
+            "correctComment": "Ответ правильный",
+            "options": [
+                {
+                    "option": "True",
+                    "match": "1"
+                },
+                {
+                    "option": "False",
+                    "match": "2"
+                },
+                {
+                    "option": "For/Do",
+                    "match": "3"
+                },
+                {
+                    "option": "count=count+1",
+                    "match": "4"
+                },
+                {
+                    "option": "While/Do",
+                    "match": "5"
+                },
+                {
+                    "option": "If/Then",
+                    "match": "6"
+                }
+            ],
+            "answers": [
+              {
+                "answer": "Блок 1",
+                "match": "6$",
+                "correct": true
+              },
+              {
+                "answer": "Блок 2",
+                "match": "1$",
+                "correct": true
+              },
+              {
+                "answer": "Блок 3",
+                "match": "2$",
+                "correct": true
+              }
+            ]
+        },
+		{
+            "question": "![](./assets/2.1.7-2.png)\n\nПосмотрите на блок-схему. Выберите правильный термин для каждого из пронумерованных блоков.",
+            "answerType": "matching",
+            "comment": "Ответ неправильный. Подумайте, как программа считает и обрабатывает выражение. Программа выполняется для определенного набора инструкций определенное количество раз. Каждый раз, когда цикл выполняется, переменная счетчика увеличивается. В данном случае цикл остановится, когда счетчик достигнет 10.",
+            "correctComment": "Ответ правильный",
+            "options": [
+                {
+                    "option": "True",
+                    "match": "1"
+                },
+                {
+                    "option": "False",
+                    "match": "2"
+                },
+                {
+                    "option": "For/Do",
+                    "match": "3"
+                },
+                {
+                    "option": "count=count+1",
+                    "match": "4"
+                },
+                {
+                    "option": "While/Do",
+                    "match": "5"
+                },
+                {
+                    "option": "If/Then",
+                    "match": "6"
+                }
+            ],
+            "answers": [
+              {
+                "answer": "Блок 1",
+                "match": "3$",
+                "correct": true
+              },
+              {
+                "answer": "Блок 2",
+                "match": "2$",
+                "correct": true
+              },
+              {
+                "answer": "Блок 3",
+                "match": "4$",
+                "correct": true
+              },
+			  {
+                "answer": "Блок 4",
+                "match": "1$",
+                "correct": true
+              }
+            ]
+		},
+		{
+            "question": "![](./assets/2.1.7-3.png)\n\nПосмотрите на блок-схему. Выберите правильный термин для каждого из пронумерованных блоков.",
+            "answerType": "matching",
+            "comment": "Ответ неправильный. На этой блок-схеме обратите внимание, что цикл выполняет определенный набор инструкций пока выражение истинно.",
+            "correctComment": "Ответ правильный",
+            "options": [
+                {
+                    "option": "True",
+                    "match": "1"
+                },
+                {
+                    "option": "False",
+                    "match": "2"
+                },
+                {
+                    "option": "For/Do",
+                    "match": "3"
+                },
+                {
+                    "option": "count=count+1",
+                    "match": "4"
+                },
+                {
+                    "option": "While/Do",
+                    "match": "5"
+                },
+                {
+                    "option": "If/Then",
+                    "match": "6"
+                }
+            ],
+            "answers": [
+              {
+                "answer": "Блок 1",
+                "match": "5$",
+                "correct": true
+              },
+              {
+                "answer": "Блок 2",
+                "match": "1$",
+                "correct": true
+              },
+              {
+                "answer": "Блок 3",
+                "match": "2$",
+                "correct": true
+              }
+            ]
+		  }		
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Основы программирования на Python",
+    "shortName": "lab-2.3.6",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: В этой работе Вы будете использовать виртуальную среду и IDLE IDE для изучения основ программирования на Python.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": {
+        "$ref": "./README.md"
+    },
+    "assets": {
+        "$ref": "./assets"
+    }
+}

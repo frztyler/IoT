@@ -1,0 +1,52 @@
+{
+    "title": "Создание блок-схемы процесса",
+    "shortName": "lab-2.1.8",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: В этом задании Вы создадите простую блок-схему, показывающую процесс поиска заданного целочисленного значения.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": { "$ref": "./README.md" },
+    "assets": { "$ref": "./assets" },
+    "tags": { "$ref": "../../material-tags.json" },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Может ли процесс угадать, если выбранное игроком число равно 0 или 128?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. Если 0 или 128 не могут быть угаданы, что нужно сделать, чтобы это исправить?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_3": {
+                "type": "string",
+                "title": "3. В чем смысл тестирования, если t=6?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_4": {
+                "type": "string",
+                "title": "4. Где разместить тест на числа 0 и 128?",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

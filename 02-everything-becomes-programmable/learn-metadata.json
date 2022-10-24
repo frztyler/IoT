@@ -1,0 +1,55 @@
+{
+    "title": "Всё становится программируемым",
+	"materialType": "course",
+	"tags": { "$ref": "./material-tags.json" },
+	"materials": [
+	    {
+            "$ref": "./02.00-introduction/learn-metadata.json"
+        },
+        {
+            "$ref": "./02.01-basic-programming-concepts/learn-metadata.json"
+        },
+        {
+            "$ref": "./02.01.01-follow-the-flowchart-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./02.01.06-basic-programming-concepts-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./02.01.07-identify-programming-terms-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./02.01.08-lab-create-a-process-flowchart/learn-metadata.json"
+        },
+	{
+            "$ref": "./02.01.09-match-the-flowchart-symbol-to-the-task-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./02.02-basic-programming-using-blockly/learn-metadata.json"
+        },
+        {
+            "$ref": "./02.02.03-lab-blinking-an-led-using-blockly/learn-metadata.json"
+        },
+        {
+            "$ref": "./02.03-programming-with-python/learn-metadata.json"
+        },
+        {
+            "$ref": "./02.03.06-lab-basic-python-programming/learn-metadata.json"
+        },
+        {
+            "$ref": "./02.03.07-lab-create-a-simple-game-with-python/learn-metadata.json"
+        },
+	{
+	    "$ref": "./02.04-what-is-prototyping/learn-metadata.json"
+	},
+	{
+	    "$ref": "./02.05-prototyping-resources/learn-metadata.json"
+	},	
+	{
+	    "$ref": "./02.06-summary/learn-metadata.json"
+	},		
+	{
+	    "$ref": "./02.06.02-summary-quiz/learn-metadata.json"
+	}			
+    ]
+}
