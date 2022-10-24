@@ -1,0 +1,77 @@
+{
+    "title": "Разработка прототипа приложения искусственного интеллекта",
+    "shortName": "lab-4.2.3",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: разработать прототип приложения ИИ.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": { "$ref": "./README.md" },
+    "assets": { "$ref": "./assets" },
+    "tags": { "$ref": "../../material-tags.json" },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Перечислите желаемые характеристики и функции для такого устройства.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. Перечислите факторы, которые могут влиять на восприятие температуры.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_3": {
+                "type": "string",
+                "title": "3. Перечислите способы, которыми умное устройство может получить информацию об этих факторах.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_4": {
+                "type": "string",
+                "title": "4. Каковы ключевые компоненты умного термостата/контроллера?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_5": {
+                "type": "string",
+                "title": "5. Перечислите процессы и операции умного термостата/контроллера?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_6": {
+                "type": "string",
+                "title": "6. Используя блок-схему, опишите, как данные собираются, передаются в приложение ИИ/МО в облачных вычислениях, и обрабатываются.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_7": {
+                "type": "string",
+                "title": "7. Используйте блок-схему, чтобы проиллюстрировать общую работу умного термостата/контроллера.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_8": {
+                "type": "string",
+                "title": "8. Какой компонент обеспечивает интеллектуальную силу для обучения и последующей корректировки своей работы?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_9": {
+                "type": "string",
+                "title": "9. Можете ли Вы представить себе другие IoT-устройства, которые со временем будут учиться и улучшать свою работу?",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

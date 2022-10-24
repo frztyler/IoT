@@ -1,0 +1,304 @@
+{
+    "title": "Тест на понимание темы: термины больших данных",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "skills": {},
+    "passingScore": 100,
+    "assets": {
+        "$ref": "./assets"
+    },
+    "questions": [
+        {
+            "question": "Как называются данные, созданные с помощью электронных таблиц или предварительно распечатанных форм?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Линейные",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Транзакционные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Круговые",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Структурированные",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "RapidMiner",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Неструктурированные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "JSON",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Значения с разделенными запятыми (CSV) и XML создают типы файлов с простым текстом. Какой еще файл использует простой текст?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Линейный",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Транзакционный",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Круговой",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Структурированный",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "RapidMiner",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Неструктурированный",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "JSON",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },        
+        {
+            "question": "Какая информация собирается и обрабатывается по мере возникновения событий?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Линейная",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Транзакционная",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "Круговая",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Структурированная",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "RapidMiner",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Неструктурированная",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "JSON",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },        
+        {
+            "question": "К какому типу данных относятся данные произвольной формы, такие как аудио или видео?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Линейные",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Транзакционные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Круговые",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Структурированные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "RapidMiner",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Неструктурированные",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "JSON",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },        
+        {
+            "question": "Какие диаграммы представляют данные как сегмент целого?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Линейные",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Транзакционные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Круговые",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "Структурированные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "RapidMiner",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Неструктурированные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "JSON",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },        
+        {
+            "question": "Какие диаграммы используются для отображения непрерывного набора данных, полученных в течении определенного времени?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Линейные",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Транзакционные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Круговые",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Структурированные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "RapidMiner",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Неструктурированные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "JSON",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },        
+        {
+            "question": "Что является примером инструмента для анализа больших данных?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Линейные",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Транзакционные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Круговые",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Структурированные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "RapidMiner",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "Неструктурированные",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "JSON",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

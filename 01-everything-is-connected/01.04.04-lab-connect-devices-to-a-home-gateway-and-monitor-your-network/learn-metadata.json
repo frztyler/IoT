@@ -1,0 +1,43 @@
+{
+    "title": "Packet Tracer - подключение устройств к домашнему шлюзу и мониторинг сети",
+    "shortName": "lab-1.4.4",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: Подключение к домашнему шлюзу и мониторинг сети с помощью Packet Tracer.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": {
+        "$ref": "./README.md"
+    },
+    "assets": {
+        "$ref": "./assets"
+    },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Опишите что происходит.",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Возможности работы и обучения, связанные с Интернетом вещей",
+    "shortName": "lab-6.2.4",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: В этом задании Вы будете искать и документировать доступные Вам возможности обучения и трудоустройства в сфере Интернета вещей.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": {
+        "$ref": "./README.md"
+    },
+    "assets": {
+        "$ref": "./assets"
+    },
+	"answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Определите и запишите три должности, которые вас интересуют.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. Запишите навыки, необходимые для выбранных Вами должностей",
+                "placeholder": "Enter your answer here"
+            },
+            "q_3": {
+                "type": "string",
+                "title": "3. Запишите информацию о возможностях для обучения в сфере IoT",
+                "placeholder": "Enter your answer here"
+            },
+            "q_4": {
+                "type": "string",
+                "title": "4. Наблюдаются ли какие-либо закономерности на рынке труда IoT?",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

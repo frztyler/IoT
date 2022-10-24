@@ -1,0 +1,52 @@
+{
+    "title": "Исследование большого набора данных",
+    "shortName": "lab-3.1.5",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: В этом задании Вы изучите образец набора данных, чтобы оценить возможности больших данных.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": { "$ref": "./README.md" },
+    "assets": { "$ref": "./assets" },
+    "tags": { "$ref": "../../material-tags.json" },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Сколько записей сейчас в базе данных?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. Какова была численность уток на Аляске в 2012 году?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_3": {
+                "type": "string",
+                "title": "3. Каково было количество уток на Гавайях в 2012 году?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_4": {
+                "type": "string",
+                "title": "4. Если бы Вы владели компанией, которой требовались утки, чем эта база данных была бы Вам полезна?",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

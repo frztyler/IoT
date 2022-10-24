@@ -1,0 +1,52 @@
+{
+    "title": "Типы данных",
+    "shortName": "lab-5.1.2",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: В этом задании мы рассмотрим различные типы собранных данных и определим, являются ли они конфиденциальными по своей природе и кто может извлечь выгоду из их кражи.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": { "$ref": "./README.md" },
+    "assets": { "$ref": "./assets" },
+    "tags": { "$ref": "../../material-tags.json" },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. ",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. ",
+                "placeholder": "Enter your answer here"
+            },
+            "q_3": {
+                "type": "string",
+                "title": "3. ",
+                "placeholder": "Enter your answer here"
+            },
+            "q_4": {
+                "type": "string",
+                "title": "4. ",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

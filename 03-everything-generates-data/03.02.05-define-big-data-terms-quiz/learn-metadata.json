@@ -1,0 +1,233 @@
+{
+    "title": "Тест на понимание темы: термины больших данных",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "skills": {},
+    "passingScore": 100,
+    "assets": {
+        "$ref": "./assets"
+    },
+    "questions": [
+        {
+            "question": "Что из нижеперечисленного относится к генерации больших объемов данных?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Граница",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Датчики",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "Скорость",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Hadoop",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Распределенная база данных",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Облачные сервисы",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Какая характеристика используется для описания больших данных?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Граница",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Датчики",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Скорость",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "Hadoop",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Распределенная база данных",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Облачные сервисы",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Что из нижеперечисленного обозначает сервераа, расположенные близко к границе сети компании для предварительной обработки данных?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Граница",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Датчики",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Скорость",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Hadoop",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Распределенная база данных",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Облачные сервисы",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Что из нижеперечисленного обеспечивает место для хранения, и доступ к приложениям через веб-браузер?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Граница",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Датчики",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Скорость",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Hadoop",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Распределенная база данных",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Облачные сервисы",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Какой инструмент был создан для распределения и обработки больших наборов данных в меньших количествах?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Граница",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Датчики",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Скорость",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Hadoop",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "Распределенная база данных",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Облачные сервисы",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Что из нижеперечисленного относится к большому объему данных, разбитых на более мелкие части и хранящихся на разных серверах?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Граница",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Датчики",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Скорость",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Hadoop",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Распределенная база данных",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "Облачные сервисы",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

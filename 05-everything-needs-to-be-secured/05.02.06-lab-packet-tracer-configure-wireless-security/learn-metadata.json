@@ -1,0 +1,42 @@
+{
+    "title": "Packet Tracer — настройка безопасности беспроводной сети",
+    "shortName": "lab-5.2.6",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: в этом задании Packet Tracer Вы защитите беспроводной маршрутизатор в домашней сети.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": { "$ref": "./README.md" },
+    "assets": { "$ref": "./assets" },
+    "tags": { "$ref": "../../material-tags.json" },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Проверьте топологию. Что случилось с беспроводной связью между ноутбуком и домашней сетью?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. Вам удалось подключиться к точке доступа? Если нет, объясните, как это можно исправить.",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

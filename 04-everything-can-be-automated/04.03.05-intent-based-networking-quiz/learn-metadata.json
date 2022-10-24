@@ -1,0 +1,129 @@
+{
+    "title": "Тест на понимание темы: сеть на основе намерений",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "materialType": "test",
+	"tags": { "$ref": "../material-tags.json" },
+    "skills": {},
+    "assets": { "$ref": "./assets" },
+    "passingScore": 100,
+    "questions": [  
+        {
+			"question": "Верно ли утверждение: сеть на основе намерений автоматически согласовывает конфигурацию цифрового ресурса компании с ее бизнес-целями.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Да",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Нет",
+                    "comment": "",
+                    "correct": false
+                }
+            ]
+		},
+        {
+			"question": "Верно ли утверждение: в некоторых случаях сеть на основе намерений автоматически перенастраивает сеть, чтобы обеспечить соответствие требуемым уровням обслуживания.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Да",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Нет",
+                    "comment": "",
+                    "correct": false
+                }
+            ]
+		},
+        {	
+            "question": "Что из следующего относится к настройке отдельных сетевых устройств? (Выберите несколько вариантов.)",
+            "answerType": "multiChoice",
+            "answers": [
+                {
+                    "answer": "Автоматизация",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Искусственный интеллект",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Машинное обучение",
+                    "comment": "",
+                    "correct": true
+                }
+            ]
+        },
+		{
+			"question": "Какой термин определяет настройку отдельных сетевых устройств?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Активация",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Аналитика",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Трансляция",
+                    "comment": "",
+                    "correct": false
+                }
+            ]
+		},
+		{
+			"question": "Какой термин определяет сквозную проверку поведения всей сети?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Активация",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Аналитика",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Трансляция",
+                    "comment": "",
+                    "correct": false
+                }
+            ]
+		},
+		{
+			"question": "Какой термин определяет преобразования бизнес-намерения в сетевую конфигурацию?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Активация",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Аналитика",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Трансляция",
+                    "comment": "",
+                    "correct": true
+                }
+            ]
+		}
+	]
+}

@@ -1,0 +1,145 @@
+{
+    "title": "Тест на понимание темы: автоматизация",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения ситуаций и решите, описывают ли они  примеры автоматизации.",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "skills": {},
+    "passingScore": 100,
+    "assets": {
+        "$ref": "./assets"
+    },
+    "questions": [
+        {
+            "question": "Температура и освещение в Вашем доме или офисе регулируются в зависимости от Вашего распорядка дня.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Автоматизация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Не автоматизация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Вы используете удаленное устройство, чтобы завести машину.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Автоматизация",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Не автоматизация",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Вы используете онлайн-банкинг для оплаты счета.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Автоматизация",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Не автоматизация",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Роботы используются в опасных условиях, таких как добыча полезных ископаемых, пожаротушение и ликвидация промышленных аварий, что снижает риск опасности для людей.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Автоматизация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Не автоматизация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Уровни производства автоматически связанны с уровнем спроса, избавляясь от ненужных товаров и снижая воздействие на окружающую среду.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Автоматизация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Не автоматизация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Вы регулируете громкость на телевизоре с помощью пульта дистанционного управления.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Автоматизация",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Не автоматизация",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Ваш GPS-навигатор пересчитывает лучший маршрут к месту назначения с учетом текущей загруженности дорог.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Автоматизация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Не автоматизация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Холодильник определяет, что у Вас закончилось молоко, и заказывает ещё.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Автоматизация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Не автоматизация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

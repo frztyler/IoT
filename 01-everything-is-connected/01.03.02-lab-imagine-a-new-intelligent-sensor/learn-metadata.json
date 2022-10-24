@@ -1,0 +1,47 @@
+{
+    "title": "Придумайте новый интеллектуальный датчик",
+    "shortName": "lab-1.3.2",
+    "materialType": "lab",
+    "description": "Многие устройства имеют в себе датчики, которые влияют на работу процессов или генерируют данные для помощи государственным структурам и предприятиям. Используйте свое воображение, чтобы придумать устройства, которые могли бы стать более полезными, если бы они содержали интеллектуальные датчики.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": { "$ref": "./README.md" },
+    "assets": { "$ref": "./assets" },
+    "tags": { "$ref": "../../material-tags.json" },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Опишите предмет, который вы выбрали.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. Какие данные будут собирать датчики в этом предмете?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_3": {
+                "type": "string",
+                "title": "3. Чем могут быть полезны собранные данные и кому они будут полезны?",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

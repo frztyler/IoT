@@ -1,0 +1,28 @@
+{
+    "title": "Перспективы в образовании и бизнесе",
+	"materialType": "course",
+	"tags": { "$ref": "./material-tags.json" },
+	"materials": [
+	    {
+            "$ref": "./06.00-introduction/learn-metadata.json"
+        },
+        {
+            "$ref": "./06.01-сhallenges-and-opportunities-in-the-digital-world/learn-metadata.json"
+        },
+        {
+            "$ref": "./06.02-educational-and-professional-opportunities/learn-metadata.json"
+        },
+        {
+            "$ref": "./06.02.04-lab-IoT-related-job-and-learning-opportunities/learn-metadata.json"
+        },
+        {
+            "$ref": "./06.03-summary/learn-metadata.json"
+        },
+        {
+            "$ref": "./06.03.02-educational-and-business-opportunities-quiz/learn-metadata.json"
+        },
+		{
+            "$ref": "./06.03.07-cisco-developer-community-quiz/learn-metadata.json"
+        }			
+    ]
+}

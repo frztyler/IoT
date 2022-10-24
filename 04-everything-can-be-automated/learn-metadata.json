@@ -1,0 +1,46 @@
+{
+    "title": "Всё можно автоматизировать",
+	"materialType": "course",
+	"tags": { "$ref": "./material-tags.json" },
+	"materials": [
+	    {
+            "$ref": "./04.00-introduction/learn-metadata.json"
+        },
+        {
+            "$ref": "./04.01-automation/learn-metadata.json"
+        },
+        {
+            "$ref": "./04.01.03-lab-automate-everyday-events/learn-metadata.json"
+        },
+        {
+            "$ref": "./04.01.05-automation-or-not-automation-quiz/learn-metadata.json"
+        },
+		{
+            "$ref": "./04.01.06-lab-packet-tracer-explore-the-smart-home/learn-metadata.json"
+        },
+        {
+            "$ref": "./04.02-artificial-intelligence-and-machine-learning/learn-metadata.json"
+        },
+        {
+            "$ref": "./04.02.03-lab-design-a-prototype-of-an-ai-application/learn-metadata.json"
+        },
+		{
+            "$ref": "./04.02.04-artificial-intelligence-and-machine-learning-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./04.03-intent-based-networking/learn-metadata.json"
+        },
+        {
+            "$ref": "./04.03.04-lab-research-intent-based-networking/learn-metadata.json"
+        },
+        {
+            "$ref": "./04.03.05-intent-based-networking-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./04.04-summary/learn-metadata.json"
+        },
+        {
+            "$ref": "./04.04.02-summary-quiz/learn-metadata.json"
+        }			
+    ]
+}

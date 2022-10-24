@@ -1,0 +1,61 @@
+{
+    "title": "Всё взаимосвязано",
+	"materialType": "course",
+	"tags": { "$ref": "./material-tags.json" },
+	"materials": [
+	    {
+            "$ref": "./01.00-introduction/learn-metadata.json"
+        },
+        {
+            "$ref": "./01.01-digitization-transforms-business/learn-metadata.json"
+        },
+        {
+            "$ref": "./01.01.02-lab-how-connected-are-you/learn-metadata.json"
+        },
+        {
+            "$ref": "./01.01.03-the-impact-of-digital-transformation-on-business-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./01.01.06-digitization-transforms-business-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./01.02-globally-connected-through-network/learn-metadata.json"
+        },
+		{
+            "$ref": "./01.02.03-network-terms-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./01.02.04-lab-map-the-internet/learn-metadata.json"
+        },
+        {
+            "$ref": "./01.02.07-lab-сreate-a-simple-network/learn-metadata.json"
+        },
+        {
+            "$ref": "./01.03-the-growth-of-iot-devices/learn-metadata.json"
+        },
+        {
+            "$ref": "./01.03.02-lab-imagine-a-new-intelligent-sensor/learn-metadata.json"
+        },
+        {
+            "$ref": "./01.03.04-lab-advantages-and-disadvantages-of-iot-devices/learn-metadata.json"
+        },
+		{
+			"$ref": "./01.03.06-the-growth-of-iot-devices-quiz/learn-metadata.json"
+		},
+		{
+			"$ref": "./01.04-сonnecting-iot-devices-to-the-network/learn-metadata.json"
+		},	
+		{
+			"$ref": "./01.04.02-lab-add-iot-devices-in-pt/learn-metadata.json"
+		},		
+		{
+			"$ref": "./01.04.04-lab-connect-devices-to-a-home-gateway-and-monitor-your-network/learn-metadata.json"
+		},		
+		{
+			"$ref": "./01.05-summary/learn-metadata.json"
+		},	
+		{
+			"$ref": "./01.05.02-summary-quiz/learn-metadata.json"
+		}		
+    ]
+}

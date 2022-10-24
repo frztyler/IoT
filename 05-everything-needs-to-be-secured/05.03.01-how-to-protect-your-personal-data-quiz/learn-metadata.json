@@ -1,0 +1,273 @@
+{
+    "title": "Тест на понимание темы: защита личных данных и устройств",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "skills": {},
+    "passingScore": 100,
+    "assets": {
+        "$ref": "./assets"
+    },
+    "questions": [
+        {
+            "question": "Изучать инструкции и устанавливать соответствующие им настройки конфиденциальности на сайтах социальных сетей.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Публиковать информацию, которая позволит людям понять, что Вас нет дома.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Осознавать, что личная информация может быть получена сбором даже несвязанных на первый взгляд друг с другом данных.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Использовать надежные пароли.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Чаще создавать резервные копии данных.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Размещать личные фотографии себя и своих маленьких детей в социальных сетях.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Использовать один и тот же пароль для всех сайтов.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Записывать пароли и оставлять их на видном месте.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Делиться своими паролями с друзьями.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Оставлять свой ноутбук/смартфон разблокированным и без присмотра.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Оставлять свою беспроводную сеть незащищенной.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Оставлять беспроводной маршрутизатор с настройками по умолчанию.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Плохая рекомендация",
+                    "comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Знать, в какой момент Ваши данные отправляются в облако.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Осуществлять резервное копирование важных данных в несколько мест, например: в облако И на USB-накопитель.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Изменять указанные по умолчанию пароль и SSID на домашнем беспроводном маршрутизаторе.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Использовать WPA2 и шифрование для обеспечения безопасности Вашего беспроводного маршрутизатора.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Хорошая рекомендация",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Плохая рекомендация",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

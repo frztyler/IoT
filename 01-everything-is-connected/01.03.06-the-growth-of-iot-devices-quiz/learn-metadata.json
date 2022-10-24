@@ -1,0 +1,139 @@
+{
+    "title": "Тест на понимание темы: рост IoT-устройств",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": ["Cisco", "Network"],
+    "skills": {},
+    "passingScore": 100,
+    "assetsPath": "assets",
+    "questions": [ 
+        {
+            "question": "Розничные продавцы могут предоставлять бонусы лояльности для привилегированных клиентов.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Преимущество",
+                    "correct": true
+                },
+                {
+                    "answer": "Недостаток",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Государственные структуры могут следить за окружающей средой.",
+            "answerType": "singleChoice",
+            "answers": [
+               {
+                    "answer": "Преимущество",
+                    "correct": true
+                },
+                {
+                    "answer": "Недостаток",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Зависимость от онлайн-покупок может привести к потере рабочих мест.",
+            "answerType": "singleChoice",
+            "answers": [
+               {
+                    "answer": "Преимущество",
+                    "correct": false
+                },
+                {
+                    "answer": "Недостаток",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Производители могут сократить время простоя, прогнозируя требования к техническому обслуживанию оборудования.",
+            "answerType": "singleChoice",
+            "answers": [
+               {
+                    "answer": "Преимущество",
+                    "correct": true
+                },
+                {
+                    "answer": "Недостаток",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Розничные продавцы знают все, что Вы покупаете.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Преимущество",
+                    "correct": false
+                },
+                {
+                    "answer": "Недостаток",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Пользователи получают больше 'спама'.",
+            "answerType": "singleChoice",
+            "answers": [
+               {
+                    "answer": "Преимущество",
+                    "correct": false
+                },
+                {
+                    "answer": "Недостаток",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Города могут сделать оценку будущим потребностям в транспорте.",
+            "answerType": "singleChoice",
+            "answers": [
+               {
+                    "answer": "Преимущество",
+                    "correct": true
+                },
+                {
+                    "answer": "Недостаток",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Сбой в работе сети может быть катастрофическим.",
+            "answerType": "singleChoice",
+            "answers": [
+               {
+                    "answer": "Преимущество",
+                    "correct": false
+                },
+                {
+                    "answer": "Недостаток",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Люди могут снизить расходы на домашнюю электроэнергию и системы отопления.",
+            "answerType": "singleChoice",
+            "answers": [
+               {
+                    "answer": "Преимущество",
+                    "correct": true
+                },
+                {
+                    "answer": "Недостаток",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

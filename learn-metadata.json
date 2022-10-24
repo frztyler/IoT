@@ -1,0 +1,27 @@
+{
+    "title":"Введение в Интернет вещей",
+    "materialType":"learning-path",
+    "tags":{
+        "$ref":"./material-tags.json"
+    },
+    "materials":[
+        {
+            "$ref":"./01-everything-is-connected/learn-metadata.json"
+        },
+        {
+            "$ref":"./02-everything-becomes-programmable/learn-metadata.json"
+        },
+        {
+            "$ref":"./03-everything-generates-data/learn-metadata.json"
+        },
+		{
+            "$ref":"./04-everything-can-be-automated/learn-metadata.json"
+        },
+		{
+            "$ref":"./05-everything-needs-to-be-secured/learn-metadata.json"
+        },
+		{
+            "$ref":"./06-educational-and-business-opportunities/learn-metadata.json"
+        }
+    ]
+}

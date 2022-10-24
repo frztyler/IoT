@@ -1,0 +1,230 @@
+{
+    "title": "Тест на понимание темы: создание надежного пароля",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов. Проверьте свое понимание, определив, являются ли следующие пароли надежными или слабыми.",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "materialType": "test",
+	"tags": { "$ref": "../material-tags.json" },
+    "skills": {},
+    "assets": { "$ref": "./assets" },
+    "passingScore": 100,
+    "questions": [  
+        {
+			"question": "princess",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Надёжный пароль",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Слабый пароль",
+                    "comment": "",
+                    "correct": true
+                }
+            ]
+		},
+        {
+			"question": "Melissa",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Надёжный пароль",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Слабый пароль",
+                    "comment": "",
+                    "correct": true
+                }
+            ]
+		},
+        {
+			"question": "12345678",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Надёжный пароль",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Слабый пароль",
+                    "comment": "",
+                    "correct": true
+                }
+            ]
+		},
+        {
+			"question": "Ilove2S@ail",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Надёжный пароль",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Слабый пароль",
+                    "comment": "",
+                    "correct": false
+                }
+            ]
+		},
+        {
+			"question": "FrEdErIcK",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Надёжный пароль",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Слабый пароль",
+                    "comment": "",
+                    "correct": true
+                }
+            ]
+		},
+        {
+			"question": "98$sg#j1!",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Надёжный пароль",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Слабый пароль",
+                    "comment": "",
+                    "correct": false
+                }
+            ]
+		},
+        {
+			"question": "sunshine",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Надёжный пароль",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Слабый пароль",
+                    "comment": "",
+                    "correct": true
+                }
+            ]
+		},
+        {
+			"question": "abcdefg",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Надёжный пароль",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Слабый пароль",
+                    "comment": "",
+                    "correct": true
+                }
+            ]
+		},
+        {
+			"question": "Fac3B00k!",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Надёжный пароль",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Слабый пароль",
+                    "comment": "",
+                    "correct": false
+                }
+            ]
+		},
+        {
+			"question": "12345678!",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Надёжный пароль",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Слабый пароль",
+                    "comment": "",
+                    "correct": true
+                }
+            ]
+		},
+        {
+			"question": "1A2B3c4$",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Надёжный пароль",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Слабый пароль",
+                    "comment": "",
+                    "correct": false
+                }
+            ]
+		},
+        {	
+            "question": "Какие из следующих советов надо использовать при создании надежного пароля? (Выберите четыре варианта)",
+            "answerType": "multiChoice",
+            "answers": [
+                {
+                    "answer": "Использует легко доступную личную информацию",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Включает прописные и строчные буквы",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Является часто используемым паролем",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Состоит из минимум 8 символов",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Включает в себя цифры и буквы",
+                    "comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Включает в себя слово, которое легко найти в словаре",
+                    "comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Включает в себя специальные символы",
+                    "comment": "",
+                    "correct": true
+                }
+            ]
+		}
+	]
+}

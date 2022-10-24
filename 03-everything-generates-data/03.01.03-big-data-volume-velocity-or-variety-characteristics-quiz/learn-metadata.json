@@ -1,0 +1,80 @@
+{
+    "title": "Тест на понимание темы: большие данные",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "skills": {},
+    "passingScore": 100,
+    "assets": {
+        "$ref": "./assets"
+    },
+    "questions": [
+        {
+            "question": "Что из нижеперечисленного описывает разные типы данных?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Объём",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Разнообразие",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "Скорость",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Что из нижеперечисленного описывает быстрое поступление данных?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Объём",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Разнообразие",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Скорость",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Что из нижеперечисленного описывает большое количество данных?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Объём",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Разнообразие",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Скорость",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}

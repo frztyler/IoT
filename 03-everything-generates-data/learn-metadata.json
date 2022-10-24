@@ -1,0 +1,46 @@
+{
+    "title": "Всё генерирует данные",
+	"materialType": "course",
+	"tags": { "$ref": "./material-tags.json" },
+	"materials": [
+	    {
+            "$ref": "./03.00-introduction/learn-metadata.json"
+        },
+        {
+            "$ref": "./03.01-what-is-big-data/learn-metadata.json"
+        },
+        {
+            "$ref": "./03.01.02-identify-scenarios-that-generate-big-data-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./03.01.03-big-data-volume-velocity-or-variety-characteristics-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./03.01.05-lab-explore-a-large-dataset/learn-metadata.json"
+        },
+        {
+            "$ref": "./03.01.06-large-data-sets-quiz/learn-metadata.json"
+        },
+		{
+            "$ref": "./03.02-where-is-big-data-stored/learn-metadata.json"
+        },
+        {
+            "$ref": "./03.02.05-define-big-data-terms-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./03.03-supporting-business-with-big-data/learn-metadata.json"
+        },
+        {
+            "$ref": "./03.03.07-lab-use-excel-to-forecast/learn-metadata.json"
+        },
+        {
+            "$ref": "./03.03.08-big-data-terms-quiz/learn-metadata.json"
+        },
+        {
+            "$ref": "./03.04-summary/learn-metadata.json"
+        },
+		{
+			"$ref": "./03.04.02-summary-quiz/learn-metadata.json"
+		}			
+    ]
+}

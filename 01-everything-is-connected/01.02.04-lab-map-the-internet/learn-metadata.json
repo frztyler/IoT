@@ -1,0 +1,42 @@
+{
+    "title": "Карта Интернета",
+    "shortName": "lab-1.2.4",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: В этом задании Вы определите сетевое подключение к целевой хост-системе с помощью команд ping и tracert.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": { "$ref": "./README.md" },
+    "assets": { "$ref": "./assets" },
+    "tags": { "$ref": "../../material-tags.json" },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Перечислите домены из результатов поиска с помощью веб-инструмента whois.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. Что может повлиять на выдаваемые tracert результаты?",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

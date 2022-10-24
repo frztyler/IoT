@@ -1,0 +1,80 @@
+{
+    "title": "Тест на понимание темы: большие наборы данных",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "skills": {},
+    "passingScore": 100,
+    "assets": {
+        "$ref": "./assets"
+    },
+    "questions": [
+        {
+            "question": "В крупном европейском городе в машинах скорой помощи и полицейских машинах установлены датчики для проверки адекватности служб экстренного реагирования во всех районах города. Этот пример будет генерировать большие данные?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Да",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Нет",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Корпорация генерирует данные со своего веб-сайта, с датчиков и из внутренних документов. Какую характеристику больших данных это описывает?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Вязкость",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Объём",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Разнообразие",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "Скорость",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Избыточность",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Верно ли утверждение: небольшие компании не могут анализировать большие данные, поскольку не могут сами генерировать достаточное количество данных.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Да",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Нет",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        }
+    ]
+}

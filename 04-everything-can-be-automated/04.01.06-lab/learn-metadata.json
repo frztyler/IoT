@@ -1,0 +1,92 @@
+{
+    "title": "Packet Tracer — знакомство с умным домом",
+    "shortName": "lab-4.1.6",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: В этом задании Вы изучите пример умного дома. В зависимости от приложения, некоторые данные лучше всего обрабатывать вблизи их источника. Пример умного дома использует преимущества граничных вычислений для отслеживания уровня дыма, обнаруженного в доме, и принятия соответствующих мер.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": { "$ref": "./README.md" },
+    "assets": { "$ref": "./assets" },
+    "tags": { "$ref": "../../material-tags.json" },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. К каким устройствам подключается коаксиальный кабель?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. К каким устройствам подключается кабельный модем?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_3": {
+                "type": "string",
+                "title": "3. Перечислите все домашние устройства, подключенные к домашнему шлюзу.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_4": {
+                "type": "string",
+                "title": "4. Что видно на экране?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_5": {
+                "type": "string",
+                "title": "5. Дверь была заперта? Как Вы это поняли?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_6": {
+                "type": "string",
+                "title": "6. Какие показания уровня дыма отображает датчик дыма?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_7": {
+                "type": "string",
+                "title": "7. Можно ли управлять детектором дыма?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_8": {
+                "type": "string",
+                "title": "8. Что происходит с воздухом в доме, когда машина стоит в гараже?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_9": {
+                "type": "string",
+                "title": "9. Что происходит с воздухом внутри дома после того, как MCU открывает двери и окна и запускает вентилятор?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_10": {
+                "type": "string",
+                "title": "10. Закрывает ли MCU двери и окна и останавливает ли вентилятор?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_11": {
+                "type": "string",
+                "title": "11. Что происходит с качеством воздуха в доме после остановки двигателя?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_12": {
+                "type": "string",
+                "title": "12. Что происходит с дверьми, окном и вентилятором?",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

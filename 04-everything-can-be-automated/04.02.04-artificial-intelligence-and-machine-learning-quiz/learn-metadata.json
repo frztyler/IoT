@@ -1,0 +1,169 @@
+{
+    "title": "Тест на понимание темы: искусственный интеллект и машинное обучение",
+    "materialType": "test",
+    "description": "Нажмите ``Начать прохождение`` для отображения вопросов и выберите самый подходящий ответ",
+    "difficulty": 1,
+    "duration": "PT0H30M",
+    "tags": {
+        "$ref": "../../material-tags.json"
+    },
+    "skills": {},
+    "passingScore": 100,
+    "assets": {
+        "$ref": "./assets"
+    },
+    "questions": [
+        {
+            "question": "Какой термин используется для описания устройства, которое может изменять свое поведение в зависимости от воздействия окружающей среды?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Машинное обучение",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Умные технологии",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "Искусственный интеллект",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Естественный интеллект",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Какой термин используется для описания интеллекта живых организмов?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Машинное обучение",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Умные технологии",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Искусственный интеллект",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Естественный интеллект",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Какой термин используется для описания использования статистических методов, позволяющих машине изменять свое поведение?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Машинное обучение",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Умные технологии",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Искусственный интеллект",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Естественный интеллект",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Какой термин используется для описания интеллекта, демонстрируемого машинами?",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Машинное обучение",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Умные технологии",
+					"comment": "",					
+                    "correct": false
+                },
+                {
+                    "answer": "Искусственный интеллект",
+					"comment": "",					
+                    "correct": true
+                },
+                {
+                    "answer": "Естественный интеллект",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Верно ли утверждение: машинное обучение является частью искусственного интеллекта.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Да",
+					"comment": "",
+                    "correct": true
+                },
+                {
+                    "answer": "Нет",
+					"comment": "",					
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Верно ли утверждение: Умные технологии полагаются на ИИ в своей работе.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Да",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Нет",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Верно ли утверждение: Автоматизация требует использования машинного обучения в своей работе.",
+            "answerType": "singleChoice",
+            "answers": [
+                {
+                    "answer": "Да",
+					"comment": "",
+                    "correct": false
+                },
+                {
+                    "answer": "Нет",
+					"comment": "",					
+                    "correct": true
+                }
+            ]
+        }
+    ]
+}

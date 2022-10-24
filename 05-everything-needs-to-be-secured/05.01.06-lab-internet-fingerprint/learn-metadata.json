@@ -1,0 +1,57 @@
+{
+    "title": "Цифровой отпечаток",
+    "shortName": "lab-5.1.6",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: ознакомиться с понятием «цифрового отпечатка» человека, использующего Интернет.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": { "$ref": "./README.md" },
+    "assets": { "$ref": "./assets" },
+    "tags": { "$ref": "../../material-tags.json" },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Укажите информацию, которую Вы собрали о себе.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. Укажите информацию, полученную в результате поиска.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_3": {
+                "type": "string",
+                "title": "3. Сравните и сопоставьте все данные, собранные ранее в этом задании. Какой поиск дал больше всего информации?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_4": {
+                "type": "string",
+                "title": "4. Какие сайты социальных сетей, участником которых Вы являетесь, были обнаружены в ходе Ваших поисков?",
+                "placeholder": "Enter your answer here"
+            },
+			"q_5": {
+                "type": "string",
+                "title": "5. Подумайте, какие данные Вы бы не опубликовали для всеобщего обозрения и почему?",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}

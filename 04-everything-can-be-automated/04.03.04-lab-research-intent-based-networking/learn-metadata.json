@@ -1,0 +1,77 @@
+{
+    "title": "Изучение сетей на основе намерений (IBN)",
+    "shortName": "lab-4.3.4",
+    "materialType": "lab",
+    "description": "**Цель лабораторной работы**: изучить некоторые возможности сетей на основе намерений (IBN).",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "credentialsSchema": {
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "text": { "$ref": "./README.md" },
+    "assets": { "$ref": "./assets" },
+    "tags": { "$ref": "../../material-tags.json" },
+    "answerSchema": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "q_1": {
+                "type": "string",
+                "title": "1. Что такое сеть на основе намерений (IBN)?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_2": {
+                "type": "string",
+                "title": "2. Укажите не менее двух причин использования IBN.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_3": {
+                "type": "string",
+                "title": "3. Что нужно сделать в первую очередь, чтобы начать писать программный код?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_4": {
+                "type": "string",
+                "title": "4. Что произойдёт при использовании IBN, если владелец бизнеса укажет намерение в сети?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_5": {
+                "type": "string",
+                "title": "5. Прочитав некоторые намерения, созданные участниками сообщества, выберите два интересующих Вас намерения и перечислите их.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_6": {
+                "type": "string",
+                "title": "6. Создайте собственное намерение на веб-сайте Cisco DevNet и запишите его заголовок.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_7": {
+                "type": "string",
+                "title": "7. Создайте собственное намерение на веб-сайте Cisco DevNet и запишите его описание и подробности.",
+                "placeholder": "Enter your answer here"
+            },
+            "q_8": {
+                "type": "string",
+                "title": "8. Можете ли Вы придумать другие варианты использования IBN помимо того, что Вы нашли на трех веб-сайтах?",
+                "placeholder": "Enter your answer here"
+            },
+            "q_9": {
+                "type": "string",
+                "title": "9. Как Вы думаете, какие навыки программирования Вам понадобятся для развертывания сетей на основе намерений?",
+                "placeholder": "Enter your answer here"
+            }
+        }
+    }
+}
