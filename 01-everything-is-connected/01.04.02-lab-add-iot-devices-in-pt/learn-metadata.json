@@ -2,7 +2,7 @@
     "title": "Packet Tracer - добавление IoT-устройств в Packet Tracer",
     "shortName": "lab-1.4.2",
     "materialType": "lab",
-    "description": "**Цель лабораторной работы**: В этом задании вы изучите заранее созданную сеть Smart Home, добавите проводные и беспроводные IoT-устройства в сеть Smart Home Network",
+    "description": "**Цель лабораторной работы**: В этом задании Вы изучите заранее созданную сеть Smart Home и добавите в неё проводные и беспроводные IoT-устройства.",
     "difficulty": 1,
     "duration": "PT0H22M",
     "tags": {
