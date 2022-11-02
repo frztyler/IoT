@@ -2,7 +2,7 @@
     "title": "Packet Tracer — мигание светодиодом с помощью Blockly",
     "shortName": "lab-2.2.3",
     "materialType": "lab",
-    "description": "**Цель лабораторной работы**: В этом задании Вы откроете Packet Tracer и проверите программу Blockly на предмет мигания светодиода, а затем будете управлять RGB светодиодом с помощью Blockly",
+    "description": "**Цель лабораторной работы**: В этом задании Вы откроете Packet Tracer и проверите программу Blockly на предмет мигания светодиода, а затем будете управлять RGB светодиодом с помощью Blockly.",
     "difficulty": 1,
     "duration": "PT0H22M",
     "credentialsSchema": {
